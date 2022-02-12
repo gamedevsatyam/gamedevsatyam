@@ -12,4 +12,4 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align="center"> Indie Game Developer, using Unity Engine and C# language.</p>
+<p align="center"> A Student, An Indie Game Developer</p>
