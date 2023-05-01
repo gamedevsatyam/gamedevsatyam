@@ -4,6 +4,8 @@
 
 #### A self-taught Game Developer, <br> with a deep passion for Programming and Designing Games
 
+<br>
+
 ### Connect with me:
 <a href="https://www.linkedin.com/in/gamedevsatyam">
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
@@ -13,9 +15,6 @@
 </a> &nbsp
 <a href="https://www.instagram.com/gamedevsatyam">
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
-</a> &nbsp
-<a href="https://www.linkedin.com/in/gamedevsatyam">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
-</a>
+</a> <br>
   
 
