@@ -1,4 +1,7 @@
-<h1 align="center"> <sub> Hey There, it's </sub> <br>Satyam Vishwakarma </h1>
+<img src="https://komarev.com/ghpvc/?username=gamedevsatyam&color=orange&style=flat&label=Profile+Views"/>
+
+<h1> <sub> Namaste🙏</sub> <br> I'm Satyam Vishwakarma </h1>
+<h3> A self-taught Game Developer, <br> with a deep passion for programming and designing games </h3>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/geekysv/">
